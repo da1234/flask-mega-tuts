@@ -1,1 +1,1 @@
-repo for mega tut
+Repo for flask mega-tuts. Helping Ramandeep fix his problems
